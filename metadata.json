@@ -1,0 +1,6 @@
+{
+  "name": "Nrutyashala – The Dance Studio",
+  "description": "Preserving Tradition. Inspiring the Next Generation. The premier classical Bharatanatyam dance academy application for classes, guru profile, student portal, achievements, and events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
